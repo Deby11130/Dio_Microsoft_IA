@@ -1,0 +1,15 @@
+{
+    "apim-request-id": "c68a0b13-9253-4c68-b17a-ad417761327c",
+    "content-length": "192",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a cartoon character wearing headphones and a mouse and keyboard",
+      "confidence": 0.6791703104972839
+    },
+    "metadata": {
+      "width": 1024,
+      "height": 1024
+    }
+  }
+  
