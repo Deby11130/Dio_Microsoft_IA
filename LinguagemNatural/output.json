@@ -1,0 +1,96 @@
+{
+    "documents": [
+        {
+            "id": "id__1026",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.36,
+                "neutral": 0.25,
+                "negative": 0.39
+            },
+            "sentences": [
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.7,
+                        "neutral": 0.16,
+                        "negative": 0.13
+                    },
+                    "offset": 0,
+                    "length": 35,
+                    "text": "Eu estou muito viciada em estudar. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.97,
+                        "negative": 0
+                    },
+                    "offset": 35,
+                    "length": 28,
+                    "text": "Se deixar, eu estudo assim. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 1,
+                        "negative": 0
+                    },
+                    "offset": 63,
+                    "length": 29,
+                    "text": "É, sei lá, 20 horas por dia. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.87,
+                        "negative": 0.09
+                    },
+                    "offset": 92,
+                    "length": 71,
+                    "text": "Eu acordo, estudo como estudo, tomo banho, estudo, não faço mais nada. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.2,
+                        "neutral": 0.79,
+                        "negative": 0.01
+                    },
+                    "offset": 163,
+                    "length": 48,
+                    "text": "A única coisa que eu faço da minha vida é isso. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.34,
+                        "negative": 0.65
+                    },
+                    "offset": 211,
+                    "length": 70,
+                    "text": "Dizem que isso não é normal, eu me pergunto, o que será que é normal? ",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
