@@ -1,0 +1,136 @@
+{
+    "@odata.context": "https://dio-search-bootcamp-servicename.search.windows.net/indexes('coffee-index')/$metadata#docs(*)",
+    "@odata.count": 2,
+    "value": [
+      {
+        "@search.score": 1.9675114,
+        "content": "\n\nReview: The coffee tastings every Wednesday afternoon are so fun. Each month there is a new drink theme. You do need to book a spot in advance to attend. It is very worth it! I also love their local music. Fourth Coffee brings in rising artists every weekend. I like to head over there mid-afternoon on weekdays when it’s not too busy and get a slice of pie or their seasonal baked goods.  \nDate: August 13, 2018\nLocation: Chicago, Illinois  \n\nimage1.png\n\n\n\nimage2.png\n\n\n\n",
+        "metadata_storage_path": "aHR0cHM6Ly9ib290Y2FtcGxhYi5ibG9iLmNvcmUud2luZG93cy5uZXQvY29mZmVlLXJldmlld3MvcmV2aWV3LTQuZG9jeA2",
+        "locations": [
+          "Fourth Coffee",
+          "Chicago",
+          "Illinois"
+        ],
+        "keyphrases": [
+          "new drink theme",
+          "seasonal baked goods",
+          "coffee tastings",
+          "local music",
+          "Fourth Coffee",
+          "rising artists",
+          "ierican Coffee",
+          "Review",
+          "afternoon",
+          "spot",
+          "advance",
+          "weekdays",
+          "slice",
+          "pie",
+          "Date",
+          "August",
+          "Location",
+          "Chicago",
+          "Illinois"
+        ],
+        "sentiment": "[\"positive\"]",
+        "merged_content": "\n\nReview: The coffee tastings every Wednesday afternoon are so fun. Each month there is a new drink theme. You do need to book a spot in advance to attend. It is very worth it! I also love their local music. Fourth Coffee brings in rising artists every weekend. I like to head over there mid-afternoon on weekdays when it’s not too busy and get a slice of pie or their seasonal baked goods.  \nDate: August 13, 2018\nLocation: Chicago, Illinois  \n\nimage1.png\n ierican Coffee 114 10148/0034 \n\n\nimage2.png\n  \n\n\n",
+        "text": [
+          "ierican Coffee 114 10148/0034",
+          ""
+        ],
+        "layoutText": [
+          "{\"language\":\"en\",\"text\":\"ierican Coffee 114 10148/0034\",\"lines\":[{\"boundingBox\":[{\"x\":701,\"y\":284},{\"x\":649,\"y\":303},{\"x\":647,\"y\":297},{\"x\":699,\"y\":279}],\"text\":\"ierican Coffee\"},{\"boundingBox\":[{\"x\":682,\"y\":241},{\"x\":614,\"y\":263},{\"x\":611,\"y\":251},{\"x\":678,\"y\":228}],\"text\":\"114 10148/0034\"}],\"words\":[{\"boundingBox\":[{\"x\":701,\"y\":285},{\"x\":679,\"y\":293},{\"x\":676,\"y\":287},{\"x\":699,\"y\":279}],\"text\":\"ierican\"},{\"boundingBox\":[{\"x\":676,\"y\":294},{\"x\":652,\"y\":303},{\"x\":650,\"y\":297},{\"x\":674,\"y\":288}],\"text\":\"Coffee\"},{\"boundingBox\":[{\"x\":682,\"y\":242},{\"x\":672,\"y\":245},{\"x\":668,\"y\":232},{\"x\":678,\"y\":229}],\"text\":\"114\"},{\"boundingBox\":[{\"x\":669,\"y\":245},{\"x\":618,\"y\":262},{\"x\":615,\"y\":251},{\"x\":666,\"y\":233}],\"text\":\"10148/0034\"}]}",
+          "{\"language\":\"en\",\"text\":\"\",\"lines\":[],\"words\":[]}"
+        ],
+        "imageTags": [
+          "food",
+          "chocolate",
+          "table",
+          "cup",
+          "serveware",
+          "indoor",
+          "cocoa solids",
+          "caffeine",
+          "tableware",
+          "sitting",
+          "coffee",
+          "dessert",
+          "musical instrument",
+          "music",
+          "concert",
+          "clothing",
+          "person",
+          "string instrument",
+          "human face",
+          "microphone",
+          "plucked string instruments",
+          "acoustic guitar",
+          "guitar",
+          "indoor",
+          "woman"
+        ],
+        "imageCaption": [
+          "{\"tags\":[\"cup\",\"coffee\",\"table\",\"indoor\",\"pastry\",\"beverage\",\"breakfast\",\"close\"],\"captions\":[{\"text\":\"a group of small cups with brown liquid in them\",\"confidence\":0.39556038379669189}]}",
+          "{\"tags\":[\"person\",\"music\",\"guitar\",\"bowed instrument\",\"bass\"],\"captions\":[{\"text\":\"a person playing a guitar\",\"confidence\":0.54444891214370728}]}"
+        ]
+      },
+      {
+        "@search.score": 0.7719893,
+        "content": "\n\nReview: I love the coffee drinks here, but my favorite part is the local art they sell. There are many kinds of paintings and watercolors they showcase each week. I love checking out the new prints that they have and buying cards for friends. Also did I mention that the wi-fi is excellent? \nDate: September 3, 2018\nLocation: Seattle, Washington  \nimage1.png\n\n\n\nimage2.png\n\n\n\n",
+        "metadata_storage_path": "aHR0cHM6Ly9ib290Y2FtcGxhYi5ibG9iLmNvcmUud2luZG93cy5uZXQvY29mZmVlLXJldmlld3MvcmV2aWV3LTEuZG9jeA2",
+        "locations": [
+          "Seattle",
+          "Washington"
+        ],
+        "keyphrases": [
+          "coffee drinks",
+          "favorite part",
+          "local art",
+          "many kinds",
+          "new prints",
+          "Review",
+          "paintings",
+          "watercolors",
+          "cards",
+          "friends",
+          "wi-fi",
+          "Date",
+          "September",
+          "Location",
+          "Seattle",
+          "Washington"
+        ],
+        "sentiment": "[\"positive\"]",
+        "merged_content": "\n\nReview: I love the coffee drinks here, but my favorite part is the local art they sell. There are many kinds of paintings and watercolors they showcase each week. I love checking out the new prints that they have and buying cards for friends. Also did I mention that the wi-fi is excellent? \nDate: September 3, 2018\nLocation: Seattle, Washington  \nimage1.png\n  \n\n\nimage2.png\n  \n\n\n",
+        "text": [
+          "",
+          ""
+        ],
+        "layoutText": [
+          "{\"language\":\"en\",\"text\":\"\",\"lines\":[],\"words\":[]}",
+          "{\"language\":\"en\",\"text\":\"\",\"lines\":[],\"words\":[]}"
+        ],
+        "imageTags": [
+          "person",
+          "human face",
+          "clothing",
+          "laptop",
+          "table",
+          "computer",
+          "sitting",
+          "outdoor",
+          "indoor",
+          "paint",
+          "painting",
+          "art",
+          "child art",
+          "indoor",
+          "wall"
+        ],
+        "imageCaption": [
+          "{\"tags\":[\"person\",\"laptop\",\"boy\"],\"captions\":[{\"text\":\"a person sitting at a table\",\"confidence\":0.46376612782478333}]}",
+          "{\"tags\":[],\"captions\":[{\"text\":\"a wall with a painting on it\",\"confidence\":0.35804325342178345}]}"
+        ]
+      }
+    ]
+  }
